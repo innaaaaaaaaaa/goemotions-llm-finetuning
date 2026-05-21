@@ -8,9 +8,9 @@
 | Ноутбук | Модель | Метод | Платформа |
 |---|---|---|---|
 | `mistral-lora-lightning.ipynb` | Mistral 7B v0.1 | LoRA (fp16) | Lightning AI |
-| `mistral-qlora-colab.ipynb` | Mistral 7B v0.1 | QLoRA (4bit) | Google Colab |
+| `mistral-qlora-colab.ipynb` | Mistral 7B v0.1 | QLoRA (4bit) | Lightning AI |
 | `llama-lora-lightning.ipynb` | LLaMA 3.1 8B | LoRA (fp16) | Lightning AI |
-| `llama-qlora-colab.ipynb` | LLaMA 3.1 8B | QLoRA (4bit) | Google Colab |
+| `llama-qlora-colab.ipynb` | LLaMA 3.1 8B | QLoRA (4bit) | Lightning AI |
 
 ## Данные
 
@@ -36,4 +36,4 @@ bitsandbytes>=0.43 (для QLoRA)
 ## Автор
 
 Сафина Инна Анатольевна  
-Выпускная квалификационная работа, СПбПУ, 2025
+Выпускная квалификационная работа, СПбПУ, 2026
